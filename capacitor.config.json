@@ -1,0 +1,8 @@
+{
+  "appId": "com.example.restreminder",
+  "appName": "休息提醒",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
